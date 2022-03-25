@@ -24,3 +24,8 @@ p{
 h2{
     color: rgb(243, 7, 7);
 }
+.dimensãoimg{
+    width: 97%;
+    padding: 3%;
+    height: 7%;
+}
