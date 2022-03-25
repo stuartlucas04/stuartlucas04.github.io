@@ -1,0 +1,26 @@
+#verde{
+    background-color: rgb(169, 255, 169);
+}
+#amarelo{
+    background-color: rgb(247, 247, 121);
+}
+#ciano{
+     background-color: rgb(131, 250, 244);
+}
+a{
+    color: black;
+}
+h3{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    border: 3px rgb(0, 0, 0) solid;
+    padding: 30px 90px 30px 90px;
+}
+p{
+    text-align: justify;
+}
+h2{
+    color: rgb(243, 7, 7);
+}
